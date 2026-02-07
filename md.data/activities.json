@@ -1,0 +1,110 @@
+[
+  {
+    "id": "act_20260208021422_863c24f2",
+    "timestamp": "2026-02-08T02:14:22.117450",
+    "userId": "USER-ADMIN",
+    "userName": "Sistem Yöneticisi",
+    "action": "login",
+    "targetType": "auth",
+    "targetId": null,
+    "targetName": null,
+    "details": "Sisteme giriş yapıldı",
+    "icon": "🔐"
+  },
+  {
+    "id": "act_20260208012526_d6fdbd66",
+    "timestamp": "2026-02-08T01:25:26.461326",
+    "userId": "USER-ADMIN",
+    "userName": "Sistem Yöneticisi",
+    "action": "personnel_delete",
+    "targetType": "personnel",
+    "targetId": "PER-003",
+    "targetName": "Mehmet Demir",
+    "details": "Personel silindi: Mehmet Demir",
+    "icon": "🗑️"
+  },
+  {
+    "id": "act_20260208012517_ab29d9cb",
+    "timestamp": "2026-02-08T01:25:17.163749",
+    "userId": "USER-ADMIN",
+    "userName": "Sistem Yöneticisi",
+    "action": "personnel_delete",
+    "targetType": "personnel",
+    "targetId": "PER-005",
+    "targetName": "Can Arslan",
+    "details": "Personel silindi: Can Arslan",
+    "icon": "🗑️"
+  },
+  {
+    "id": "act_20260208012505_ccb36a12",
+    "timestamp": "2026-02-08T01:25:05.209896",
+    "userId": "USER-ADMIN",
+    "userName": "Sistem Yöneticisi",
+    "action": "personnel_update",
+    "targetType": "personnel",
+    "targetId": "PER-001",
+    "targetName": "Murat Poyraz",
+    "details": "Personel güncellendi: Murat Poyraz",
+    "icon": "✏️"
+  },
+  {
+    "id": "act_20260208012400_f7fdc7aa",
+    "timestamp": "2026-02-08T01:24:00.767037",
+    "userId": "USER-ADMIN",
+    "userName": "Sistem Yöneticisi",
+    "action": "personnel_update",
+    "targetType": "personnel",
+    "targetId": "PER-002",
+    "targetName": "Evren Bilgili",
+    "details": "Personel güncellendi: Evren Bilgili",
+    "icon": "✏️"
+  },
+  {
+    "id": "act_20260208012319_3dff24d2",
+    "timestamp": "2026-02-08T01:23:19.078433",
+    "userId": "USER-ADMIN",
+    "userName": "Sistem Yöneticisi",
+    "action": "personnel_update",
+    "targetType": "personnel",
+    "targetId": "PER-002",
+    "targetName": "Evren Bilgili",
+    "details": "Personel güncellendi: Evren Bilgili",
+    "icon": "✏️"
+  },
+  {
+    "id": "act_20260208012257_59a4fef3",
+    "timestamp": "2026-02-08T01:22:57.866912",
+    "userId": "USER-ADMIN",
+    "userName": "Sistem Yöneticisi",
+    "action": "personnel_update",
+    "targetType": "personnel",
+    "targetId": "PER-001",
+    "targetName": "Murat Poyraz",
+    "details": "Personel güncellendi: Murat Poyraz",
+    "icon": "✏️"
+  },
+  {
+    "id": "act_20260208012146_add99ea3",
+    "timestamp": "2026-02-08T01:21:46.401982",
+    "userId": "USER-ADMIN",
+    "userName": "Sistem Yöneticisi",
+    "action": "login",
+    "targetType": "auth",
+    "targetId": null,
+    "targetName": null,
+    "details": "Sisteme giriş yapıldı",
+    "icon": "🔐"
+  },
+  {
+    "id": "act_20260208011543_3e3d7a1f",
+    "timestamp": "2026-02-08T01:15:43.921298",
+    "userId": "USER-ADMIN",
+    "userName": "Sistem Yöneticisi",
+    "action": "login",
+    "targetType": "auth",
+    "targetId": null,
+    "targetName": null,
+    "details": "Sisteme giriş yapıldı",
+    "icon": "🔐"
+  }
+]
